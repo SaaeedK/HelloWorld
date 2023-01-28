@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/ItotAau.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ItotAau" data-context="false" ><a href="//imgur.com/a/ItotAau">Video Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 <!-- ScreenToGif -->
 GIF created with ...  
